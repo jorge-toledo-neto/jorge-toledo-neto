@@ -1,45 +1,27 @@
 <!-- ========================================================= -->
-<!--              JORGE TOLEDO // DEVELOPER                    -->
-<!--              DEVELOPER COMMAND CENTER                     -->
+<!-- JORGE TOLEDO // DIGITAL CORE                              -->
+<!-- Personal GitHub Profile                                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071b2d,75:0066ff,100:00e5ff&height=220&section=header&text=Jorge%20Toledo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDING%20SYSTEMS%20%7C%20LEARNING%20EVERY%20DAY&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Jorge Toledo Developer Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,50:05080D,100:080B12&height=220&section=header&text=JORGE%20TOLEDO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DIGITAL%20CORE%20%2F%2F%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=15&descColor=00E5FF&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=SYSTEM+INITIALIZING...;Python+Developer;Web+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Building+real+projects;Learning+every+day;Turning+ideas+into+code;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+Jorge+Toledo...;Loading+developer+profile...;Loading+projects...;Loading+EC+%2F+ECx...;Loading+Axion...;SYSTEM+ONLINE" alt="Typing animation"/>
 
 <br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=050505" alt="System Online">
-<img src="https://img.shields.io/badge/FOCUS-BUILDING-0066FF?style=for-the-badge&labelColor=050505" alt="Building">
-<img src="https://img.shields.io/badge/PROFILE-DEVELOPER-7A5CFF?style=for-the-badge&labelColor=050505" alt="Developer">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-
-</div>
-
----
-
-<div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                     SYSTEM INITIALIZATION                           ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  > Loading developer profile...                         [ OK ]       ║
-║  > Loading technical skills...                          [ OK ]       ║
-║  > Loading project laboratory...                        [ OK ]       ║
-║  > Loading ambitions...                                 [ OK ]       ║
-║                                                                      ║
-║  DEVELOPER     : JORGE TOLEDO                                        ║
-║  SYSTEM STATUS : ONLINE                                              ║
-║  CURRENT MODE  : BUILDING                                            ║
-║  NEXT OBJECTIVE: EVOLVE                                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 J O R G E   T O L E D O                     │
+│                                                              │
+│                 DEVELOPER IN PROGRESS                       │
+│                 SOFTWARE • WEB • PYTHON                     │
+│                                                              │
+│                 ─────────────────────────                    │
+│                 SYSTEM STATUS       ● ONLINE                 │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
